@@ -18,24 +18,25 @@ QQ 交流群：797203945
 
 ## 包含项目
 
-装甲板自动瞄准算法模块 https://github.com/chenjunnn/rm_auto_aim
+装甲板自动瞄准算法模块 https://gitlab.com/rm_vision/rm_auto_aim
 
-MindVision 相机模块 https://github.com/chenjunnn/ros2_mindvision_camera
+MindVision 相机模块 https://gitlab.com/rm_vision/ros2_mindvision_camera
 
-HikVision 相机模块 https://github.com/chenjunnn/ros2_hik_camera
+HikVision 相机模块 https://gitlab.com/rm_vision/ros2_hik_camera
 
-机器人云台描述文件 https://github.com/chenjunnn/rm_gimbal_description
+机器人云台描述文件 https://gitlab.com/rm_vision/rm_gimbal_description
 
-串口通讯模块 https://github.com/chenjunnn/rm_serial_driver
+串口通讯模块 https://gitlab.com/rm_vision/rm_serial_driver
 
-视觉算法仿真器 https://github.com/chenjunnn/rm_vision_simulator
+视觉算法仿真器 https://gitlab.com/rm_vision/rm_vision_simulator
+
 
 ## 通过 Docker 部署
 
 拉取镜像
 
 ```
-docker pull chenjunnn/rm_vision:lastest
+docker pull defate/rm_vision:lastest
 ```
 
 构建开发容器
